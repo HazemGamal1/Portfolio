@@ -8,7 +8,7 @@ const Nav = () => {
     <nav className='w-full py-8 px-6'>
         <div className='flex justify-between max-w-screen-2xl mx-auto items-center relative'>
           <div>
-            <h1 className='text-3xl select-none bg-[#62B1ED] rounded-full'><img src={logo} alt="" width={60} /></h1>
+            <h1 className='text-3xl select-none'>Hazem</h1>
           </div>
           <div className='hidden  gap-6 xl:flex item'>
             <a href="#aboutMe"><button className='border-[1px] border-white rounded-lg px-6 py-2  hover:text-[#62B1ED] duration-300'>About me</button></a>
