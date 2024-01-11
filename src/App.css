@@ -1,0 +1,6 @@
+.aboutMeTxt{
+    @apply xl:text-2xl max-w-[60rem] mt-10;
+}
+.langTxt {
+    @apply text-2xl select-none xl:text-4xl cursor-none;
+}
